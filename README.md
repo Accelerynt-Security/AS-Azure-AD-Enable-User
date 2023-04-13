@@ -6,7 +6,7 @@ For any technical questions, please contact info@accelerynt.com
 [![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FAccelerynt-Security%2FAS-Azure-AD-Enable-User%2Fmaster%2Fazuredeploy.json)
 [![Deploy to Azure Gov](https://aka.ms/deploytoazuregovbutton)](https://portal.azure.us/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FAccelerynt-Security%2FAS-Azure-AD-Enable-User%2Fmaster%2Fazuredeploy.json)    
 
-This playbook is intended to be run from a Microsoft Sentinel incident. It will enable the Azure AD user accounts associated with the entities from Microsoft Sentinel incidents. This playbook is meant to be used in tandem with our ![AS-Azure-AD-Disable-User](https://github.com/Accelerynt-Security/AS-Azure-AD-Disable-User) playbook.
+This playbook is intended to be run from a Microsoft Sentinel incident. It will enable the Azure AD user accounts associated with the entities from Microsoft Sentinel incidents. This playbook is meant to be used in tandem with our [AS-Azure-AD-Disable-User](https://github.com/Accelerynt-Security/AS-Azure-AD-Disable-User) playbook.
 
 ![Azure_AD_Enable_User_Demo_1](Images/Azure_AD_Enable_User_Demo_1.png)
 
